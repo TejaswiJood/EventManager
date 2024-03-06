@@ -1,0 +1,31 @@
+﻿@model EnrollViewModel
+
+@{
+	ViewData["Title"] = "Enroll a student";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="my-3">
+	<h4>Confirmation Response</h4>
+	<h6>You have been invited to enroll in the "@Model.Student?.Course?.CourseName" program!</h6>
+	<p>
+		Hey, @Model.Student?.StudentName, you have been enroll in the "@Model.Student?.Course?.CourseName" in room @Model.Student?.Course?.RoomNumber
+		starting on @Model.Student?.Course?.StartDate?.ToString("MMM dd, yyyy") with Instructor @Model.Student?.Course?.CourseInstructor - we would be thrilled to have you join us.
+	</p>
+</div>
+
+<form method="post" asp-action="Enroll" asp-route-eventId="@Model.Student?.Course?.CourseId" asp-route-guestId="@Model.Student?.StudentId">
+	<div class="text-danger" asp-validation-summary="All"></div>
+
+	<label class="form-label mx-3" asp-for="Response">Do you want to enroll?</label>
+	<div class="form-check form-check-inline">
+		<input class="form-check-input" type="radio" value="yes" asp-for="Response" />
+		<label class="form-check-label" asp-for="Response">YES</label>
+	</div>
+	<div class="form-check form-check-inline">
+		<input class="form-check-input" type="radio" value="no" asp-for="Response" />
+		<label class="form-check-label" asp-for="Response">NO</label>
+	</div>
+	<input type="submit" class="btn btn-outline-primary" value="Submit response" />
+
+</form>

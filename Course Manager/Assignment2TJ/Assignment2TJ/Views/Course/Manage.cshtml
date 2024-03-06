@@ -1,0 +1,95 @@
+﻿@using Assignment2TJ.Entities;
+@model ManageCourseViewModel
+@{
+	ViewData["Title"] = "Manage the Course";
+	var invitationStatusMappings = new Dictionary<EnrollmentConfirmationStatus, string>
+	{
+		[EnrollmentConfirmationStatus.ConfirmationNotSent] = "Enrollment confirmation not sent",
+		[EnrollmentConfirmationStatus.EnrollmentConfirmed] = "Enrollment confirmed",
+		[EnrollmentConfirmationStatus.ConfirmationSent] = "Enrollment confirmation sent",
+		[EnrollmentConfirmationStatus.EnrollmentDeclined] = "Enrollment declined"
+	};
+}
+<h1>@ViewData["Title"]</h1>
+<div class="mb-3">
+	<a asp-asp-controller="Course" asp-action="List">All courses</a><span class="mx-1">|</span>
+	<a asp-asp-controller="Course" asp-action="Edit" asp-route-id="@Model.Course.CourseId">Edit this course</a><span class="mx-1">|</span>
+	<a asp-asp-controller="Course" asp-action="Add">Add a new course</a>
+
+</div>
+
+<div>
+	<h6>Course Summary :</h6>
+	<p>The course "@Model.Course?.CourseName" is in room @Model.Course?.RoomNumber starting on @Model.Course?.StartDate?.ToString("MMM dd, yyyy") and the instructor is "@Model.Course?.CourseInstructor".</p>
+
+</div>
+
+@if (TempData.ContainsKey("notify"))
+{
+	<div class="alert alert-@TempData["className"] alert-dismissible fade show" role="alert">
+		@TempData["notify"]
+		<button type="button" class="btn-close" data-bs-dismiss="alert" data-bs-dismiss="alert"></button>
+	</div>
+}
+
+<div class="row g-3 align-items-center">
+	<div class="col-auto">Invites not sent: @Model.CountConfirmationNotSent</div>
+	<div class="col-auto">Sent count: @Model.CountConfirmationSent</div>
+	<div class="col-auto">Confirmed count: @Model.CountEnrollmentConfirmed</div>
+	<div class="col-auto">Declined count: @Model.CountEnrollmentDeclined</div>
+
+</div>
+
+<div>
+	@if (Model?.Course?.Students?.Count > 0)
+	{
+		<h6>Students!</h6>
+		<table class="table table-bordered table-hover table-striped">
+			<thead>
+				<tr><th>Name</th><th>Email</th><th>Enrollment Status</th></tr>
+			</thead>
+			<tbody>
+				@foreach (var s in Model.Course.Students)
+				{
+					<tr>
+						<td>
+							@s.StudentName
+						</td>
+						<td> @s.StudentEmail</td>
+						<td>@invitationStatusMappings[s.Status]</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	}
+	else
+	{
+		<div>Add a Student</div>
+	}
+</div>
+
+<form class="row g-3 align-items-center"
+	  method="post" asp-action="AddStudent" asp-route-courseId="@Model?.Course?.CourseId">
+	<div class="col-auto">
+		<label class="form-label" asp-for="Student.StudentName">Name</label>
+		<span class="form-text text-danger" asp-validation-for="Student.StudentName"></span>
+	</div>
+	<div class="col-auto">
+		<input class="form-control" type="text" asp-for="Student.StudentName" />
+	</div>
+	<div class="col-auto">
+		<label class="form-label" asp-for="Student.StudentEmail">Email</label>
+		<span class="form-text text-danger" asp-validation-for="Student.StudentEmail"></span>
+	</div>
+	<div class="col-auto">
+		<input class="form-control" type="text" asp-for="Student.StudentEmail" />
+	</div>
+	<div class="col-auto">
+		<input class="btn btn-outline-primary" type="submit" value="Create Student" />
+	</div>
+</form>
+
+<h6>Actions:</h6>
+<form method="post" asp-action="SendInvitation" asp-route-courseId="@Model?.Course?.CourseId">
+	<input class="btn btn-danger" type="submit" value="Send Confirmation Message" />
+</form>

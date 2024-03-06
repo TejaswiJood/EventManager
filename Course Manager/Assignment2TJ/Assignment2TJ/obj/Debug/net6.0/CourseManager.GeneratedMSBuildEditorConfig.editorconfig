@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CourseManager
+build_property.RootNamespace = CourseManager
+build_property.ProjectDir = C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Course/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Course/Enroll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEVucm9sbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Course/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Course/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXE1hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Course/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXFRoYW5rWW91LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tejas/OneDrive/Desktop/Semester 3/Microsoft Web Technology/Assignment2/Course Manager/Assignment2TJ/Assignment2TJ/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fi6ivj9btn

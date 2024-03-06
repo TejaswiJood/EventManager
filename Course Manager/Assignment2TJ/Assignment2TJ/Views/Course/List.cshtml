@@ -1,0 +1,58 @@
+﻿@model CoursesViewModel
+@{
+	ViewData["Title"] = "All Courses";
+}
+<h1>@ViewData["Title"]</h1>
+<div class="mb-3">
+	<a asp-controller="Course" asp-action="Add">Add a new course</a>
+</div>
+@if (Model.Courses?.Count > 0)
+{
+	<table class="table table-bordered table-striped table-hover">
+		<caption>List of Courses</caption>
+		<thead>
+			<tr>
+				<th>
+					Name
+				</th>
+				<th>
+					Instructor
+				</th>
+				<th>
+					Start Date
+				</th>
+				<th>
+					Room Number
+				</th>
+				<th>
+					# of Students
+				</th>
+				<th>
+					Actions
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var program in Model.Courses)
+			{
+				<tr>
+					<td>@program.CourseName</td>
+					<td>@program.CourseInstructor</td>
+					<td>@program.StartDate?.ToString("MMM dd, yyyy")</td>
+					<td>@program.RoomNumber</td>
+					<td>@program.Students?.Count</td>
+					<td>
+						<a asp-asp-controller="Course" asp-action="Manage" asp-route-id="@program.CourseId">Manage</a><span class="mx-1">|</span>
+						<a asp-asp-controller="Course" asp-action="Edit" asp-route-id="@program.CourseId">Edit</a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+else
+{
+	<div class="alert alert-primary" role="alert">
+		Add an Course!
+	</div>
+}

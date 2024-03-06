@@ -1,0 +1,17 @@
+﻿@model String
+@{
+	ViewData["Title"] = "Thank You";
+}
+<h1>@ViewData["Title"]</h1>
+
+@if (Model == "yes")
+{
+	<p>Thank you for submitting your response! We are thrilled that you will be joining us!
+	</p>
+}
+else
+{
+	<p>Thank you for submitting your response! We are sorry that you won't be joining us </p>
+}
+
+<a asp-asp-controller="Course" asp-action="List">All course</a>

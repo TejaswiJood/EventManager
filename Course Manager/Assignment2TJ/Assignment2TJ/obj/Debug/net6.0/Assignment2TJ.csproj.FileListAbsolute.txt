@@ -1,0 +1,136 @@
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\appsettings.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.staticwebassets.runtime.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.exe
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.deps.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.runtimeconfig.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.pdb
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.csproj.AssemblyReference.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.AssemblyInfoInputs.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.AssemblyInfo.cs
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.csproj.CoreCompileInputs.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.RazorAssemblyInfo.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.RazorAssemblyInfo.cs
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets\msbuild.Assignment2TJ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment2TJ.props
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment2TJ.props
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment2TJ.props
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\scopedcss\bundle\Assignment2TJ.styles.css
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\scopedcss\projectbundle\Assignment2TJ.bundle.scp.css
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.csproj.CopyComplete
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\refint\Assignment2TJ.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.pdb
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.genruntimeconfig.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\ref\Assignment2TJ.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\appsettings.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.staticwebassets.runtime.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.exe
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.deps.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.runtimeconfig.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Assignment2TJ.pdb
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.csproj.AssemblyReference.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.AssemblyInfoInputs.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.AssemblyInfo.cs
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.csproj.CoreCompileInputs.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.RazorAssemblyInfo.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.RazorAssemblyInfo.cs
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets\msbuild.Assignment2TJ.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment2TJ.props
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment2TJ.props
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment2TJ.props
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\scopedcss\bundle\Assignment2TJ.styles.css
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\scopedcss\projectbundle\Assignment2TJ.bundle.scp.css
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.csproj.CopyComplete
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\refint\Assignment2TJ.dll
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.pdb
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\Assignment2TJ.genruntimeconfig.cache
+C:\Users\tejas\OneDrive\Desktop\Semester 3\Microsoft Web Technology\Assignment2\Course Manager\Assignment2TJ\Assignment2TJ\obj\Debug\net6.0\ref\Assignment2TJ.dll
